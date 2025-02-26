@@ -1,0 +1,15 @@
+<resources>
+    <!-- App Description -->
+    <string name="app_name">Flight Search</string>
+
+    <!-- Global -->
+
+    <!-- Home Screen -->
+    <string name="homeScreen_flightsFrom_airport">Flights from %s</string>
+    <string name="homeScreen_placeholder_searchText">Enter departure airport</string>
+    <string name="homeScreen_favoriteFlights">Favorite Routes</string>
+
+    <!-- Flight Card -->
+    <string name="flightCard_flightMovement_arrive">Arrive</string>
+    <string name="flightCard_flightMovement_depart">Depart</string>
+</resources>
