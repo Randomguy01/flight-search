@@ -8,7 +8,7 @@ Part of
 the [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
 course.
 
-[demo](demo.gif)
+![demo](demo.gif)
 
 ## License
 
