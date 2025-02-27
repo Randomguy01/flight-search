@@ -8,6 +8,8 @@ Part of
 the [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
 course.
 
+[demo](demo.gif)
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
